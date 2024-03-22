@@ -1,0 +1,503 @@
+350 150 160
+	product1	family1		1	5	5	100	2.55
+	product2	family1		2	10	5	100	3.22
+	product3	family1		3	6	5	100	2.55
+	product4	family2		4	15	2	100	3.55
+	product5	family2		5	20	2	100	3.45
+	product6	family3		6	5	5	100	2.1
+	product7	family3		7	40	2	100	4.03
+	product8	family4		8	15	5	100	2.55
+	product9	family5		9	8	5	100	2.55
+	product10	family6		10	5	5	100	2.55
+	product11	family7		11	10	5	100	3.22
+	product12	family8		12	6	5	100	2.55
+	product13	family9		13	15	2	100	3.55
+	product14	family10		14	20	2	100	3.45
+	product15	family11		15	5	5	100	2.1
+	product16	family12		16	40	2	100	4.03
+	product17	family13		17	15	5	100	2.55
+	product18	family14		18	8	5	100	2.55
+	product19	family15		19	5	5	100	2.55
+	product20	family16		20	10	5	100	3.22
+	product21	family17		21	6	5	100	2.55
+	product22	family18		22	15	2	100	3.55
+	product23	family19		23	20	2	100	3.45
+	product24	family20		24	5	5	100	2.1
+	product25	family21		25	40	2	100	4.03
+	product26	family22		26	15	5	100	2.55
+	product27	family23		27	8	5	100	2.55
+	product28	family24		28	5	5	100	2.55
+	product29	family25		29	10	5	100	3.22
+	product30	family26		30	6	5	100	2.55
+	product31	family27		31	15	2	100	3.55
+	product32	family28		32	20	2	100	3.45
+	product33	family29		33	5	5	100	2.1
+	product34	family30		34	40	2	100	4.03
+	product35	family31		35	15	5	100	2.55
+	product36	family32		36	8	5	100	2.55
+	product37	family33		37	5	5	100	2.55
+	product38	family34		38	10	5	100	3.22
+	product39	family35		39	6	5	100	2.55
+	product40	family36		40	15	2	100	3.55
+	product41	family37		41	20	2	100	3.45
+	product42	family38		42	5	5	100	2.1
+	product43	family39		43	40	2	100	4.03
+	product44	family40		44	15	5	100	2.55
+	product45	family41		45	8	5	100	2.55
+	product46	family42		46	5	5	100	2.55
+	product47	family43		47	10	5	100	3.22
+	product48	family44		48	6	5	100	2.55
+	product49	family45		49	15	2	100	3.55
+	product50	family46		50	20	2	100	3.45
+	product51	family47		51	5	5	100	2.1
+	product52	family48		52	40	2	100	4.03
+	product53	family49		53	15	5	100	2.55
+	product54	family50		54	8	5	100	2.55
+	product55	family51		55	5	5	100	2.55
+	product56	family52		56	10	5	100	3.22
+	product57	family53		57	6	5	100	2.55
+	product58	family54		58	15	2	100	3.55
+	product59	family55		59	20	2	100	3.45
+	product60	family56		60	5	5	100	2.1
+	product61	family1		61	5	5	100	2.55
+	product62	family1		62	10	5	100	3.22
+	product63	family1		63	6	5	100	2.55
+	product64	family2		64	15	2	100	3.55
+	product65	family2		65	20	2	100	3.45
+	product66	family3		66	5	5	100	2.1
+	product67	family3		67	40	2	100	4.03
+	product68	family4		68	15	5	100	2.55
+	product69	family5		69	8	5	100	2.55
+	product70	family6		70	5	5	100	2.55
+	product71	family7		71	10	5	100	3.22
+	product72	family8		72	6	5	100	2.55
+	product73	family9		73	15	2	100	3.55
+	product74	family10		74	20	2	100	3.45
+	product75	family11		75	5	5	100	2.1
+	product76	family12		76	40	2	100	4.03
+	product77	family13		77	15	5	100	2.55
+	product78	family14		78	8	5	100	2.55
+	product79	family15		79	5	5	100	2.55
+	product80	family16		80	10	5	100	3.22
+	product81	family17		81	6	5	100	2.55
+	product82	family18		82	15	2	100	3.55
+	product83	family19		83	20	2	100	3.45
+	product84	family20		84	5	5	100	2.1
+	product85	family21		85	40	2	100	4.03
+	product86	family22		86	15	5	100	2.55
+	product87	family23		87	8	5	100	2.55
+	product88	family24		88	5	5	100	2.55
+	product89	family25		89	10	5	100	3.22
+	product90	family26		90	6	5	100	2.55
+	product91	family27		91	15	2	100	3.55
+	product92	family28		92	20	2	100	3.45
+	product93	family29		93	5	5	100	2.1
+	product94	family30		94	40	2	100	4.03
+	product95	family31		95	15	5	100	2.55
+	product96	family32		96	8	5	100	2.55
+	product97	family33		97	5	5	100	2.55
+	product98	family34		98	10	5	100	3.22
+	product99	family35		99	6	5	100	2.55
+	product100	family36		100	15	2	100	3.55
+	product101	family1		101	5	5	100	2.55
+	product102	family1		102	10	5	100	3.22
+	product103	family1		103	6	5	100	2.55
+	product104	family2		104	15	2	100	3.55
+	product105	family2		105	20	2	100	3.45
+	product106	family3		106	5	5	100	2.1
+	product107	family3		107	40	2	100	4.03
+	product108	family4		108	15	5	100	2.55
+	product109	family5		109	8	5	100	2.55
+	product110	family6		110	5	5	100	2.55
+	product111	family7		111	10	5	100	3.22
+	product112	family8		112	6	5	100	2.55
+	product113	family9		113	15	2	100	3.55
+	product114	family10		114	20	2	100	3.45
+	product115	family11		115	5	5	100	2.1
+	product116	family12		116	40	2	100	4.03
+	product117	family13		117	15	5	100	2.55
+	product118	family14		118	8	5	100	2.55
+	product119	family15		119	5	5	100	2.55
+	product120	family16		120	10	5	100	3.22
+	product121	family17		121	6	5	100	2.55
+	product122	family18		122	15	2	100	3.55
+	product123	family19		123	20	2	100	3.45
+	product124	family20		124	5	5	100	2.1
+	product125	family21		125	40	2	100	4.03
+	product126	family22		126	15	5	100	2.55
+	product127	family23		127	8	5	100	2.55
+	product128	family24		128	5	5	100	2.55
+	product129	family25		129	10	5	100	3.22
+	product130	family26		130	6	5	100	2.55
+	product131	family27		131	15	2	100	3.55
+	product132	family28		132	20	2	100	3.45
+	product133	family29		133	5	5	100	2.1
+	product134	family30		134	40	2	100	4.03
+	product135	family31		135	15	5	100	2.55
+	product136	family32		136	8	5	100	2.55
+	product137	family33		137	5	5	100	2.55
+	product138	family34		138	10	5	100	3.22
+	product139	family35		139	6	5	100	2.55
+	product140	family36		140	15	2	100	3.55
+	product141	family37		141	20	2	100	3.45
+	product142	family38		142	5	5	100	2.1
+	product143	family39		143	40	2	100	4.03
+	product144	family40		144	15	5	100	2.55
+	product145	family41		145	8	5	100	2.55
+	product146	family42		146	5	5	100	2.55
+	product147	family43		147	10	5	100	3.22
+	product148	family44		148	6	5	100	2.55
+	product149	family45		149	15	2	100	3.55
+	product150	family46		150	20	2	100	3.45
+	product151	family47		151	5	5	100	2.1
+	product152	family48		152	40	2	100	4.03
+	product153	family49		153	15	5	100	2.55
+	product154	family50		154	8	5	100	2.55
+	product155	family51		155	5	5	100	2.55
+	product156	family52		156	10	5	100	3.22
+	product157	family53		157	6	5	100	2.55
+	product158	family54		158	15	2	100	3.55
+	product159	family55		159	20	2	100	3.45
+	product160	family56		160	5	5	100	2.1
+	product161	family1		161	5	5	100	2.55
+	product162	family1		162	10	5	100	3.22
+	product163	family1		163	6	5	100	2.55
+	product164	family2		164	15	2	100	3.55
+	product165	family2		165	20	2	100	3.45
+	product166	family3		166	5	5	100	2.1
+	product167	family3		167	40	2	100	4.03
+	product168	family4		168	15	5	100	2.55
+	product169	family5		169	8	5	100	2.55
+	product170	family6		170	5	5	100	2.55
+	product171	family7		171	10	5	100	3.22
+	product172	family8		172	6	5	100	2.55
+	product173	family9		173	15	2	100	3.55
+	product174	family10		174	20	2	100	3.45
+	product175	family11		175	5	5	100	2.1
+	product176	family12		176	40	2	100	4.03
+	product177	family13		177	15	5	100	2.55
+	product178	family14		178	8	5	100	2.55
+	product179	family15		179	5	5	100	2.55
+	product180	family16		180	10	5	100	3.22
+	product181	family17		181	6	5	100	2.55
+	product182	family18		182	15	2	100	3.55
+	product183	family19		183	20	2	100	3.45
+	product184	family20		184	5	5	100	2.1
+	product185	family21		185	40	2	100	4.03
+	product186	family22		186	15	5	100	2.55
+	product187	family23		187	8	5	100	2.55
+	product188	family24		188	5	5	100	2.55
+	product189	family25		189	10	5	100	3.22
+	product190	family26		190	6	5	100	2.55
+	product191	family27		191	15	2	100	3.55
+	product192	family28		192	20	2	100	3.45
+	product193	family29		193	5	5	100	2.1
+	product194	family30		194	40	2	100	4.03
+	product195	family31		195	15	5	100	2.55
+	product196	family32		196	8	5	100	2.55
+	product197	family33		197	5	5	100	2.55
+	product198	family34		198	10	5	100	3.22
+	product199	family35		199	6	5	100	2.55
+	product200	family36		200	15	2	100	3.55
+	product201	family1		201	5	5	100	2.55
+	product202	family1		202	10	5	100	3.22
+	product203	family1		203	6	5	100	2.55
+	product204	family2		204	15	2	100	3.55
+	product205	family2		205	20	2	100	3.45
+	product206	family3		206	5	5	100	2.1
+	product207	family3		207	40	2	100	4.03
+	product208	family4		208	15	5	100	2.55
+	product209	family5		209	8	5	100	2.55
+	product210	family6		210	5	5	100	2.55
+	product211	family7		211	10	5	100	3.22
+	product212	family8		212	6	5	100	2.55
+	product213	family9		213	15	2	100	3.55
+	product214	family10		214	20	2	100	3.45
+	product215	family11		215	5	5	100	2.1
+	product216	family12		216	40	2	100	4.03
+	product217	family13		217	15	5	100	2.55
+	product218	family14		218	8	5	100	2.55
+	product219	family15		219	5	5	100	2.55
+	product220	family16		220	10	5	100	3.22
+	product221	family17		221	6	5	100	2.55
+	product222	family18		222	15	2	100	3.55
+	product223	family19		223	20	2	100	3.45
+	product224	family20		224	5	5	100	2.1
+	product225	family21		225	40	2	100	4.03
+	product226	family22		226	15	5	100	2.55
+	product227	family23		227	8	5	100	2.55
+	product228	family24		228	5	5	100	2.55
+	product229	family25		229	10	5	100	3.22
+	product230	family26		230	6	5	100	2.55
+	product231	family27		231	15	2	100	3.55
+	product232	family28		232	20	2	100	3.45
+	product233	family29		233	5	5	100	2.1
+	product234	family30		234	40	2	100	4.03
+	product235	family31		235	15	5	100	2.55
+	product236	family32		236	8	5	100	2.55
+	product237	family33		237	5	5	100	2.55
+	product238	family34		238	10	5	100	3.22
+	product239	family35		239	6	5	100	2.55
+	product240	family36		240	15	2	100	3.55
+	product241	family37		241	20	2	100	3.45
+	product242	family38		242	5	5	100	2.1
+	product243	family39		243	40	2	100	4.03
+	product244	family40		244	15	5	100	2.55
+	product245	family41		245	8	5	100	2.55
+	product246	family42		246	5	5	100	2.55
+	product247	family43		247	10	5	100	3.22
+	product248	family44		248	6	5	100	2.55
+	product249	family45		249	15	2	100	3.55
+	product250	family46		250	20	2	100	3.45
+	product251	family1		251	5	5	100	2.55
+	product252	family1		252	10	5	100	3.22
+	product253	family1		253	6	5	100	2.55
+	product254	family2		254	15	2	100	3.55
+	product255	family2		255	20	2	100	3.45
+	product256	family3		256	5	5	100	2.1
+	product257	family3		257	40	2	100	4.03
+	product258	family4		258	15	5	100	2.55
+	product259	family5		259	8	5	100	2.55
+	product260	family6		260	5	5	100	2.55
+	product261	family7		261	10	5	100	3.22
+	product262	family8		262	6	5	100	2.55
+	product263	family9		263	15	2	100	3.55
+	product264	family10		264	20	2	100	3.45
+	product265	family11		265	5	5	100	2.1
+	product266	family12		266	40	2	100	4.03
+	product267	family13		267	15	5	100	2.55
+	product268	family14		268	8	5	100	2.55
+	product269	family15		269	5	5	100	2.55
+	product270	family16		270	10	5	100	3.22
+	product271	family17		271	6	5	100	2.55
+	product272	family18		272	15	2	100	3.55
+	product273	family19		273	20	2	100	3.45
+	product274	family20		274	5	5	100	2.1
+	product275	family21		275	40	2	100	4.03
+	product276	family22		276	15	5	100	2.55
+	product277	family23		277	8	5	100	2.55
+	product278	family24		278	5	5	100	2.55
+	product279	family25		279	10	5	100	3.22
+	product280	family26		280	6	5	100	2.55
+	product281	family27		281	15	2	100	3.55
+	product282	family28		282	20	2	100	3.45
+	product283	family29		283	5	5	100	2.1
+	product284	family30		284	40	2	100	4.03
+	product285	family31		285	15	5	100	2.55
+	product286	family32		286	8	5	100	2.55
+	product287	family33		287	5	5	100	2.55
+	product288	family34		288	10	5	100	3.22
+	product289	family35		289	6	5	100	2.55
+	product290	family36		290	15	2	100	3.55
+	product291	family37		291	20	2	100	3.45
+	product292	family38		292	5	5	100	2.1
+	product293	family39		293	40	2	100	4.03
+	product294	family40		294	15	5	100	2.55
+	product295	family41		295	8	5	100	2.55
+	product296	family42		296	5	5	100	2.55
+	product297	family43		297	10	5	100	3.22
+	product298	family44		298	6	5	100	2.55
+	product299	family45		299	15	2	100	3.55
+	product300	family46		300	20	2	100	3.45
+	product301	family47		301	5	5	100	2.1
+	product302	family48		302	40	2	100	4.03
+	product303	family49		303	15	5	100	2.55
+	product304	family50		304	8	5	100	2.55
+	product305	family51		305	5	5	100	2.55
+	product306	family52		306	10	5	100	3.22
+	product307	family53		307	6	5	100	2.55
+	product308	family54		308	15	2	100	3.55
+	product309	family55		309	20	2	100	3.45
+	product310	family56		310	5	5	100	2.1
+	product311	family1		311	5	5	100	2.55
+	product312	family1		312	10	5	100	3.22
+	product313	family1		313	6	5	100	2.55
+	product314	family2		314	15	2	100	3.55
+	product315	family2		315	20	2	100	3.45
+	product316	family3		316	5	5	100	2.1
+	product317	family3		317	40	2	100	4.03
+	product318	family4		318	15	5	100	2.55
+	product319	family5		319	8	5	100	2.55
+	product320	family6		320	5	5	100	2.55
+	product321	family7		321	10	5	100	3.22
+	product322	family8		322	6	5	100	2.55
+	product323	family9		323	15	2	100	3.55
+	product324	family10		324	20	2	100	3.45
+	product325	family11		325	5	5	100	2.1
+	product326	family12		326	40	2	100	4.03
+	product327	family13		327	15	5	100	2.55
+	product328	family14		328	8	5	100	2.55
+	product329	family15		329	5	5	100	2.55
+	product330	family16		330	10	5	100	3.22
+	product331	family17		331	6	5	100	2.55
+	product332	family18		332	15	2	100	3.55
+	product333	family19		333	20	2	100	3.45
+	product334	family20		334	5	5	100	2.1
+	product335	family21		335	40	2	100	4.03
+	product336	family22		336	15	5	100	2.55
+	product337	family23		337	8	5	100	2.55
+	product338	family24		338	5	5	100	2.55
+	product339	family25		339	10	5	100	3.22
+	product340	family26		340	6	5	100	2.55
+	product341	family27		341	15	2	100	3.55
+	product342	family28		342	20	2	100	3.45
+	product343	family29		343	5	5	100	2.1
+	product344	family30		344	40	2	100	4.03
+	product345	family31		345	15	5	100	2.55
+	product346	family32		346	8	5	100	2.55
+	product347	family33		347	5	5	100	2.55
+	product348	family34		348	10	5	100	3.22
+	product349	family35		349	6	5	100	2.55
+	product350	family36		350	15	2	100	3.55
+	1	1	1	1	1.88	2
+	2	1	1	2	1.88	1
+	3	1	1	3	1.65	2
+	4	1	2	1	1.65	2
+	5	1	2	2	1.45	1
+	6	1	2	3	1.45	2
+	7	1	3	1	1.3	2
+	8	1	3	2	1.3	1
+	9	1	3	3	1.25	2
+	10	1	1	1	1.88	2
+	11	1	1	2	1.88	1
+	12	1	1	3	1.65	2
+	13	1	2	1	1.65	2
+	14	1	2	2	1.45	1
+	15	1	2	3	1.45	2
+	16	1	3	1	1.3	2
+	17	1	3	2	1.3	1
+	18	1	3	3	1.25	2
+	19	1	1	1	1.88	2
+	20	1	1	2	1.88	1
+	21	1	1	1	1.88	2
+	22	1	1	2	1.88	1
+	23	1	1	3	1.65	2
+	24	1	2	1	1.65	2
+	25	1	2	2	1.45	1
+	26	1	2	3	1.45	2
+	27	1	3	1	1.3	2
+	28	1	3	2	1.3	1
+	29	1	1	1	1.88	2
+	30	1	1	2	1.88	1
+	31	1	1	1	1.88	2
+	32	1	1	2	1.88	1
+	33	1	1	3	1.65	2
+	34	1	2	1	1.65	2
+	35	1	2	2	1.45	1
+	36	1	2	3	1.45	2
+	37	1	3	1	1.3	2
+	38	1	3	2	1.3	1
+	39	1	3	3	1.25	2
+	40	1	1	1	1.88	2
+	41	1	1	2	1.88	1
+	42	1	1	3	1.65	2
+	43	1	2	1	1.65	2
+	44	1	2	2	1.45	1
+	45	1	2	3	1.45	2
+	46	1	3	1	1.3	2
+	47	1	3	2	1.3	1
+	48	1	3	3	1.25	2
+	49	1	1	1	1.88	2
+	50	1	1	2	1.88	1
+	51	1	1	1	1.88	2
+	52	1	1	2	1.88	1
+	53	1	1	3	1.65	2
+	54	1	2	1	1.65	2
+	55	1	2	2	1.45	1
+	56	1	2	3	1.45	2
+	57	1	3	1	1.3	2
+	58	1	3	2	1.3	1
+	59	1	1	1	1.88	2
+	60	1	1	2	1.88	1
+	61	1	1	1	1.88	2
+	62	1	1	2	1.88	1
+	63	1	1	3	1.65	2
+	64	1	2	1	1.65	2
+	65	1	2	2	1.45	1
+	66	1	2	3	1.45	2
+	67	1	3	1	1.3	2
+	68	1	3	2	1.3	1
+	69	1	3	3	1.25	2
+	70	1	1	1	1.88	2
+	71	1	1	2	1.88	1
+	72	1	1	3	1.65	2
+	73	1	2	1	1.65	2
+	74	1	2	2	1.45	1
+	75	1	2	3	1.45	2
+	76	1	3	1	1.3	2
+	77	1	3	2	1.3	1
+	78	1	3	3	1.25	2
+	79	1	1	1	1.88	2
+	80	1	1	2	1.88	1
+	81	1	1	1	1.88	2
+	82	1	1	2	1.88	1
+	83	1	1	3	1.65	2
+	84	1	2	1	1.65	2
+	85	1	2	2	1.45	1
+	86	1	2	3	1.45	2
+	87	1	3	1	1.3	2
+	88	1	3	2	1.3	1
+	89	1	1	1	1.88	2
+	90	1	1	2	1.88	1
+	91	1	1	1	1.88	2
+	92	1	1	2	1.88	1
+	93	1	1	3	1.65	2
+	94	1	2	1	1.65	2
+	95	1	2	2	1.45	1
+	96	1	2	3	1.45	2
+	97	1	3	1	1.3	2
+	98	1	3	2	1.3	1
+	99	1	3	3	1.25	2
+	100	1	1	1	1.88	2
+	101	1	1	2	1.88	1
+	102	1	1	3	1.65	2
+	103	1	2	1	1.65	2
+	104	1	2	2	1.45	1
+	105	1	2	3	1.45	2
+	106	1	3	1	1.3	2
+	107	1	3	2	1.3	1
+	108	1	3	3	1.25	2
+	109	1	1	1	1.88	2
+	110	1	1	2	1.88	1
+	111	1	1	1	1.88	2
+	112	1	1	2	1.88	1
+	113	1	1	3	1.65	2
+	114	1	2	1	1.65	2
+	115	1	2	2	1.45	1
+	116	1	2	3	1.45	2
+	117	1	3	1	1.3	2
+	118	1	3	2	1.3	1
+	119	1	1	1	1.88	2
+	120	1	1	2	1.88	1
+	121	1	3	1	1.3	2
+	122	1	3	2	1.3	1
+	123	1	1	1	1.88	2
+	124	1	1	2	1.88	1
+	125	1	1	1	1.88	2
+	126	1	1	2	1.88	1
+	127	1	1	3	1.65	2
+	128	1	2	1	1.65	2
+	129	1	2	2	1.45	1
+	130	1	2	3	1.45	2
+	131	1	3	1	1.3	2
+	132	1	3	2	1.3	1
+	133	1	3	3	1.25	2
+	134	1	1	1	1.88	2
+	135	1	1	2	1.88	1
+	136	1	1	3	1.65	2
+	137	1	2	1	1.65	2
+	138	1	2	2	1.45	1
+	139	1	2	3	1.45	2
+	140	1	3	1	1.3	2
+	141	1	3	2	1.3	1
+	142	1	3	3	1.25	2
+	143	1	1	1	1.88	2
+	144	1	1	2	1.88	1
+	145	1	1	1	1.88	2
+	146	1	1	2	1.88	1
+	147	1	1	3	1.65	2
+	148	1	2	1	1.65	2
+	149	1	2	2	1.45	1
+	150	1	2	3	1.45	2
+
+

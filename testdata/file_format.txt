@@ -1,0 +1,8 @@
+#N M S
+#N: first number indicates number of prodcuts, thus parser should read N lines
+#M: second number indicates how many shelf parts there is, thus parser must read M lines afterwards
+#S: third number (width of a shelf in cm)
+#first N lines have the following format
+#ID(int)  facing_length_in_cm(int) minmum_facing_required(int) maximum_facing_required(int) profit(double)
+#second M lines have the following format
+#ID(int) shelf_id(int) priority_co_shelf(double) priority_co_part(double)

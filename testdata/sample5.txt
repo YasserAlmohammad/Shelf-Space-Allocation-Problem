@@ -1,0 +1,86 @@
+60 20 160
+	product1	family1		1	5	5	100	2.55
+	product2	family1		2	10	5	100	3.22
+	product3	family1		3	6	5	100	2.55
+	product4	family2		4	15	2	100	3.55
+	product5	family2		5	20	2	100	3.45
+	product6	family3		6	5	5	100	2.1
+	product7	family3		7	40	2	100	4.03
+	product8	family4		8	15	5	100	2.55
+	product9	family5		9	3	5	100	1.95
+	product10	family6		10	5	5	100	2.55
+	product11	family7		11	10	5	100	3.22
+	product12	family8		12	6	5	100	2.55
+	product13	family9		13	15	2	100	3.55
+	product14	family10		14	20	2	100	3.45
+	product15	family11		15	5	5	100	2.1
+	product16	family12		16	40	2	100	4.03
+	product17	family13		17	15	5	100	2.55
+	product18	family14		18	8	5	100	2.55
+	product19	family15		19	5	5	100	2.55
+	product20	family16		20	10	5	100	3.22
+	product21	family17		21	6	5	100	2.55
+	product22	family18		22	15	2	100	3.55
+	product23	family19		23	20	2	100	3.45
+	product24	family20		24	5	5	100	2.1
+	product25	family21		25	40	2	100	4.03
+	product26	family22		26	15	5	100	2.55
+	product27	family23		27	8	5	100	2.55
+	product28	family24		28	5	5	100	2.55
+	product29	family25		29	10	5	100	3.22
+	product30	family26		30	6	5	100	2.55
+	product31	family27		31	15	2	100	3.55
+	product32	family28		32	20	2	100	3.45
+	product33	family29		33	5	5	100	2.1
+	product34	family30		34	40	2	100	4.03
+	product35	family31		35	15	5	100	2.55
+	product36	family32		36	8	5	100	2.55
+	product37	family33		37	5	5	100	2.55
+	product38	family34		38	10	5	100	3.22
+	product39	family35		39	6	5	100	2.55
+	product40	family36		40	15	2	100	3.55
+	product41	family37		41	20	2	100	3.45
+	product42	family38		42	5	5	100	2.1
+	product43	family39		43	40	2	100	4.03
+	product44	family40		44	15	5	100	2.55
+	product45	family41		45	8	5	100	2.55
+	product46	family42		46	5	5	100	2.55
+	product47	family43		47	10	5	100	3.22
+	product48	family44		48	6	5	100	2.55
+	product49	family45		49	15	2	100	3.55
+	product50	family46		50	20	2	100	3.45
+	product51	family47		51	5	5	100	2.1
+	product52	family48		52	40	2	100	4.03
+	product53	family49		53	15	5	100	2.55
+	product54	family50		54	8	5	100	2.55
+	product55	family51		55	5	5	100	2.55
+	product56	family52		56	10	5	100	3.22
+	product57	family53		57	6	5	100	2.55
+	product58	family54		58	15	2	100	3.55
+	product59	family55		59	20	2	100	3.45
+	product60	family56		60	5	5	100	2.1
+	1	1	1.88	2
+	2	1	1.88	1
+	3	1	1.65	2
+	4	2	1.65	2
+	5	2	1.45	1
+	6	2	1.45	2
+	7	3	1.3	2
+	8	3	1.3	1
+	9	3	1.25	2
+	10	1	1.88	2
+	11	1	1.88	1
+	12	1	1.65	2
+	13	2	1.65	2
+	14	2	1.45	1
+	15	2	1.45	2
+	16	3	1.3	2
+	17	3	1.3	1
+	18	3	1.25	2
+	19	1	1.88	2
+	20	1	1.88	1
+
+
+
+
+

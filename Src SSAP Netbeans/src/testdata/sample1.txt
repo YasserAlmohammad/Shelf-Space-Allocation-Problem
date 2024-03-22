@@ -1,0 +1,25 @@
+9 9 160
+	product1	family1		1	5	5	100	2.55
+	product2	family1		2	10	5	100	3.22
+	product3	family1		3	6	5	100	2.55
+	product4	family2		4	15	2	100	3.55
+	product5	family2		5	20	2	100	3.45
+	product6	family3		6	5	5	100	2.1
+	product7	family3		7	40	2	100	4.03
+	product8	family4		8	15	5	100	2.55
+	product9	family5		9	8	5	100	2.55
+	1	1	1.88	2
+	2	1	1.88	1
+	3	1	1.65	2
+	4	2	1.65	2
+	5	2	1.45	1
+	6	2	1.45	2
+	7	3	1.3	2
+	8	3	1.3	1
+	9	3	1.25	2
+
+
+
+
+
+
